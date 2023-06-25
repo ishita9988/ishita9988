@@ -6,11 +6,17 @@ Aspiring Data Analyst
 
 As a data enthusiast, I am dedicated to extracting valuable insights from large datasets in order to drive key buisness decisions. Certified in a PG Program in Data Analytics and Data Science at Skill-Lync.
 
-* 🌍  I'm based in Patna
 * 🖥️  See my portfolio at [MyPortfolio](http://www.datascienceportfol.io/ishita9998)
 * ✉️  You can contact me at [ishita20dec@gmail.com](mailto:ishita20dec@gmail.com)
 
+### Skills
 
+* **Python**
+* **SQL**
+* **MS Excel**
+* **Data Visualization tools- Tableau, Power BI**
+* **Statistics**
+* **Machine Learning**
 
 ### Badges
 
